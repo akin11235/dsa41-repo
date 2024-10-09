@@ -1,0 +1,5 @@
+Folder:- c:/dsa41/folder1
+File:- file43.txt
+Author:- DSA41
+Purpose:- To code Python script
+================================
